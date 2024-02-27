@@ -1,0 +1,14 @@
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.AssemblyInfoInputs.cache
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.AssemblyInfo.cs
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.csproj.CoreCompileInputs.cache
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\bin\Debug\net6.0\Accses Modifires . Const and Readonly.exe
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\bin\Debug\net6.0\Accses Modifires . Const and Readonly.deps.json
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\bin\Debug\net6.0\Accses Modifires . Const and Readonly.runtimeconfig.json
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\bin\Debug\net6.0\Accses Modifires . Const and Readonly.dll
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\bin\Debug\net6.0\Accses Modifires . Const and Readonly.pdb
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.dll
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\refint\Accses Modifires . Const and Readonly.dll
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.pdb
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\Accses Modifires . Const and Readonly.genruntimeconfig.cache
+C:\C#\Accses Modifires . Const and Readonly\Accses Modifires . Const and Readonly\obj\Debug\net6.0\ref\Accses Modifires . Const and Readonly.dll
